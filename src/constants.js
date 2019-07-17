@@ -28,7 +28,12 @@ export const TERRITORIES = [
     id: 'tundra',
     name: 'Tundra',
     superpower: 'Let it snow!'
-  }
+  },
+  {
+    id: 'westeros',
+    name: 'Westeros',
+    superpower: 'Did it really have to end?!'
+  },
 ]
 
 export const ME_FILENAME = 'me.json'
@@ -48,6 +53,10 @@ export const OTHER_KINGDOMS = [
   {
     app: 'https://decentralised-islands.netlify.com',
     ruler: 'yannael_leborgne.id'
+  },
+  {
+    app: 'https://animalkingdoms.netlify.com',
+    ruler: 'moxiegirl.id.blockstack'
   },
   {
       app: 'https://thirsty-jang-0c0a17.netlify.com',
